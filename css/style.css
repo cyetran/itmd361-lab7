@@ -1,4 +1,7 @@
-td, th {
-	border: 1px solid;
-  }
-  
+body {
+	font-family: 'Roboto', serif;
+	background-color: #7022c9;
+	color: #f2f2f2;
+	margin: 0;
+	padding: 0;
+}
