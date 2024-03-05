@@ -13,7 +13,7 @@ h1 {
 }
 
 #planets {
-	width: 70%;
+	width: 100%;
 	margin-top: 20px;
 	border-collapse: collapse;
 	box-shadow: 0px 0px 0px 12px rgba(39, 36, 38, 0.8);
@@ -31,9 +31,11 @@ h1 {
 }
 
 #planets td img {
-  	max-width: 300px;
+  	max-width: 230px;
   	border-radius: 20px;
 }
+
+
 
 
 
