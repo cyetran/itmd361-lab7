@@ -5,3 +5,36 @@ body {
 	margin: 0;
 	padding: 0;
 }
+h1 {
+	font-size: 3.125em;
+	text-align: center;
+	color: #d63b9d;
+	margin-bottom: 30px;
+}
+
+#planets {
+	width: 70%;
+	margin-top: 20px;
+	border-collapse: collapse;
+	box-shadow: 0px 0px 0px 12px rgba(39, 36, 38, 0.8);
+}
+
+#planets th, #planets td {
+  	border: 10px solid #000;
+  	padding: 11px;
+  	text-align: center;
+}
+
+#planets th {
+ 	background-color: #cc0046;
+  	color: #ff623e;
+}
+
+#planets td img {
+  	max-width: 300px;
+  	border-radius: 20px;
+}
+
+
+
+	
