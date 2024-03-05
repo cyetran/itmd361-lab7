@@ -5,3 +5,10 @@ body {
 	margin: 0;
 	padding: 0;
 }
+
+h1 {
+	font-size: 3.125em;
+	text-align: center;
+	color: #d63b9d;
+	margin-bottom: 30px;
+}
